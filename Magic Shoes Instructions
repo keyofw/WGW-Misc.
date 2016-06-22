@@ -1,0 +1,20 @@
+Instructions for the Magic Shoes Prototype
+
+This is a prototype for a simple platformer - actually, the simplicity of the game is not actually a given, but the simplicity of the mechanics is. Your character cannot really do anything unless he's (she's? I don't particularly care. It's a yellow ball right now) wearing a pair of "magic shoes." And then they can only do *one* thing while wearing it. It's an exercise in game design, how to get the most out of one mechanic.
+
+There are nine pair of shoes. Two of them I did not actually program their function because the point of the prototype is to give you the idea of the mechanic, not each ability. After all we could always change the shoes up so it wasn't that important, and these two were the hardest for me to figure out and I didn't want to take too long making this darn thing. Anyway...
+
+Q: Ice Skates - not programmed - basically they should allow you to travel on ice safely
+W: Winged Sandals - hold space while in midair to significantly reduce your fall speed
+E: Rocket Heelies - hold space to be propelled into the air (in a real game there would be a limited fuel supply but I couldn't be arsed)
+A: Steel-Toed Boots - press space to kick the air in front of you, and if you kick a wall you destroy it
+S: Jump Shoes - press space to jump
+D: Spiked Cleats - press space to stomp the ground below you and destroy it
+Z: Stilts - press space to stand very tall
+X: Running Sneakers - hold space to move a lot faster
+E: Magnetic Slippers - not programmed - basically allows you to walk up walls and such
+
+Arrow keys to move
+Press Esc to quit
+
+Let me know any questions you may have
